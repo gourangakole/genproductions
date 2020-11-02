@@ -5,7 +5,10 @@ set Nevents_for_max_weigth 500 # number of events for the estimate of the max. w
 
 set max_running_process 1
 
-decay t > h+ b, h+ > c s~
-decay t~ > w- b~, w- > l- vl~
+
+decay t~ > w- b~
+decay w- > l- vl~
+decay t > h+ b
+decay h+ > c s~
 
 launch
