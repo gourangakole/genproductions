@@ -1,7 +1,5 @@
 import model 2HDM_NLO
 
-#define p = g u c d s b u~ c~ d~ s~ b~
-#define j = g u c d s b u~ c~ d~ s~ b~
 define l+ = e+ mu+ ta+
 define l- = e- mu- ta-
 define vl = ve vm vt
